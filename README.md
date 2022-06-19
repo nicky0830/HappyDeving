@@ -177,7 +177,7 @@
 
 
 ## 👩‍💻👨‍💻 Contributors
-## Somi Jeon
+## 전소미
 > **Role** : Team Member
 >
 > **Position** : FE(Front-End)
