@@ -17,6 +17,8 @@
 ### :link:[배포주소](https://happydeving.com/)
 - testId : nikki@gmail.com
 - testPw : 1234
+- 검색어 : 서대문구 창천동 / 5/15 / 자바스크립트
+
 
 <br/>
 <br/>
