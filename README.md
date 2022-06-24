@@ -32,8 +32,12 @@ TestPw : 1234
 - Sign Out
 - Delete Account and revoke permissions
 
+<br/>
+
 ## 🔧 Tech Stack
 ![Happy Deving Stack](https://user-images.githubusercontent.com/79065544/168771710-45857bd1-a9ef-4c48-8454-2e4e0e367473.png)
+
+<br/>
 
 ## 🌟 Final App View
 
