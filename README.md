@@ -176,15 +176,18 @@ TestPw : 1234
 
 </details>
 
+<br/>
 
 ## Flowcharts
 ✨ [Happy Deving Flowcharts](https://www.figma.com/file/rgpYkg2kNQDUqIaTpRUD7b/HappyDeving-Flowcharts?node-id=0%3A1)
+
+<br/>
 
 ## DB Schema 
 ✨ [Happy Deving DBdiagram](https://dbdiagram.io/d/622ab22961d06e6eade12938)
 <img width="1283" alt="image" src="https://user-images.githubusercontent.com/75279575/168463115-d21242c6-bc79-499a-a332-1b9bb53d4c5e.png">
 
-
+<br/>
 
 ## 👩‍💻👨‍💻 Contributors
 ## 전소미
