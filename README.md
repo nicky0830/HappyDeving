@@ -11,6 +11,8 @@
 
 
 ### :link:[Deployed domain: happydeving.com](https://happydeving.com/)
+TestId : nikki@gmail.com 
+TestPw : 1234
 
 ## ✨ Feature and Functionality
 - Email Verification using Nodemailer
