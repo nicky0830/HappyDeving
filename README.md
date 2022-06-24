@@ -15,6 +15,8 @@
 
 ## 배포 주소
 ### :link:[배포주소](https://happydeving.com/)
+- testId : nikki@gmail.com
+- testPw : 1234
 
 <br/>
 <br/>
