@@ -16,6 +16,8 @@
 TestId : nikki@gmail.com 
 TestPw : 1234
 
+<br/>
+
 ## ✨ Feature and Functionality
 - Email Verification using Nodemailer
 - Login using Kakao, Google, Naver, GitHub (JWT, Google OAuth2 Authentication and bcrypt)
