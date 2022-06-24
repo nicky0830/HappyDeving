@@ -5,33 +5,27 @@
 ![happylogo3](https://user-images.githubusercontent.com/87491901/164157863-13772940-0652-4407-ba95-04406613b21e.png)
 
 ## ✏️ About
-### Happy Deving is a web service that allows you to participate in group studies or projects near you by specifying address, study date, and project languages.
-#### Kick 1) You can find the amazing projects around you.
-#### Kick 2) You can manage your favorite studies by adding them to your wishlist.
-#### Kick 3) Author’s profile section allows you to easily browse his GitHub repositories and personal blogs and facilitates networking.
-
-
-
-### :link:[Deployed domain: happydeving.com](https://happydeving.com/)
-TestId : nikki@gmail.com 
-TestPw : 1234
+### 해피데빙은 위치 정보와 스터디 시작일, 학습할 언어를 지정해 검색해 가까운 곳의 스터디에 참여할 수 있도록 하는 웹서비스입니다.
+#### Kick 1) 주변에서 일어나고 있는 놀라운 프로젝트를 알 수 있습니다.
+#### Kick 2) 마음에 드는 스터디를 찜목록에 저장해 관리할 수 있습니다.
+#### Kick 3) 스터디장 소개글과 소셜 네트워크 연동으로 다양한 개발자들과 관계를 맺고 소통할 수 있습니다.
 
 <br/>
+<br/>
 
-## ✨ Feature and Functionality
-- Email Verification using Nodemailer
-- Login using Kakao, Google, Naver, GitHub (JWT, Google OAuth2 Authentication and bcrypt)
-- Search study groups and projects based on an address, date, and computer languages using Kakao map API
-- Create a new post
-- Add comments and replies on a post
-- Share posts
-- Like posts
-- Edit profile photos, nickname, biography, blog addresses
-- Realtime update likes, posts, comments and profiles
-- Auto authenticate the user on refresh
-- Sign Out
-- Delete Account and revoke permissions
+## 배포 주소
+### :link:[배포주소](https://happydeving.com/)
 
+<br/>
+<br/>
+
+## ✨ Feature
+- 위치, 개발 언어, 스터디 시작일로 스터디를 검색할 수 있습니다.
+- 검색 결과에서 스터디 모임 마커를 클릭하면 모달창으로 간략한 정보를 볼 수 있습니다.
+- 스터디의 하트를 눌러 내 찜목록에 추가하고 찜을 해제할 수 있습니다.
+- 참여하기 버튼을 누르면 카카오 링크로 연결돼 스터디장과 연락할 수 있습니다.
+- 댓글과 대댓글로 소통하며 스터디장의 SNS에 들어가 볼 수 있습니다.
+- 내가 쓴 모든 글은 마이페이지에서 관리할 수 있습니다.
 <br/>
 
 ## 🔧 Tech Stack
